@@ -1,7 +1,6 @@
 # Artifacts of the paper submitted in Applied Networking Research Workshop (ANRW'24)
-Infers possible paths from one AS to another, then gives Route Origin Validation (ROV) status of the overall path. 
-Paper: **Assessing the security of Internet paths: A case study
-of Dutch critical infrastructures**
+Infers possible paths from one AS to another, then gives Route Origin Validation (ROV) status of the overall path. Paper: [Assessing the security of Internet paths: A case study
+of Dutch critical infrastructures](https://shyamkkhadka.github.io/publications/ANRW24_Path_security_NL.pdf). 
 ## Program file information
 1. ing_ms_path_finder.ipynb: Finds paths from an ASN to other
 2. check-valley-free-rov-ing-ms.ipynb: Checks valley-free conditons of new paths and calcuate ROV scores based on [RoVista](https://rovista.netsecurelab.org/)
